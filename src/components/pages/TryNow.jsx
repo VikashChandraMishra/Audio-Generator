@@ -1,7 +1,7 @@
 const TryNow = () => {
 
   return (
-    <div className="w-3/5 my-20 mx-auto p-4 bg-white shadow-md rounded-md">
+    <div className="w-4/5 sm:w-3/5 my-20 mx-auto p-4 bg-white shadow-md rounded-md">
 
       <div className="h-40 overflow-y-auto bg-white text-center">
         The processed audio will appear here

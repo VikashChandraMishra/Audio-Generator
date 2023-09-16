@@ -1,6 +1,6 @@
 const Login = () => {
   return (
-    <div className="max-w-md mx-auto p-6 bg-white shadow-md rounded-md">
+    <div className="w-4/5 sm:w-1/2 mx-auto p-6 bg-white shadow-md rounded-md">
 
       <h1 className="text-2xl font-semibold mb-4 bg-white">Enter your details</h1>
 
